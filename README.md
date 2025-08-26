@@ -1,6 +1,6 @@
 # 💧 Weather Type Classification Using Multilayer Perceptron (MLP) Algorithm
 
-![Alt Text](thumbnail_clustering.jpg)
+![Alt Text](weather_type_class_thumbnail.jpg)
 
 ## 🔎 About
 This project aims to classify weather types using a deep learning approach with a Multilayer Perceptron (MLP) model. The classification is based on meteorological features such as temperature, humidity, wind speed, precipitation level, cloud cover, atmospheric pressure, UV index, season, recording location, and visibility.
